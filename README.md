@@ -52,7 +52,8 @@ Sample:
 
 ### 🔸 Cost Convergence – Pure Python
 
-![Cost Plot](cost_plot_pure_python.png)
+![Cost Plot](cost_iteration_plot.png)
+
 
 ### 🔸 Cost Convergence – NumPy
 
