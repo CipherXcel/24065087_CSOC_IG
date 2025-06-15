@@ -1,7 +1,7 @@
 # CSOC 2025 – Week 0 Assignment (AI/ML Track)
 
 ### 👤 Name: Priyanshu Raj  
-### 🏫 Roll Number: <Your Roll Number>  
+### 🏫 Roll Number: 24065087
 ### 🎓 College: IIT (BHU)
 
 ---
